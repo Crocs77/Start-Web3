@@ -8,8 +8,8 @@ timezone: UTC+8
 # Crocs77
 
 1. someone
-2. 你认为你会完成本次残酷学习吗？maybe
-3. 你的联系方式（推荐 Telegram）weixin:xhy1120_
+2. 你认为你会完成本次残酷学习吗？会
+3. 你的联系方式（推荐 Telegram）Crocs77
 
 ## Notes
 
